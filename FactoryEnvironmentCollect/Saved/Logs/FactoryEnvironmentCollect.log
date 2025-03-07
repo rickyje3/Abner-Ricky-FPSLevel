@@ -4498,3 +4498,1416 @@ GroupActor_7
 [2025.03.07-18.50.31:447][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 281 ms)
 [2025.03.07-18.50.31:447][ 16]AssetCheck: New page: Asset Save: Working
 [2025.03.07-18.50.31:447][ 16]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Working.Working
+[2025.03.07-18.54.39:545][ 23]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4368.548828
+[2025.03.07-18.54.40:544][ 26]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-18.54.40:544][ 26]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4369.212891, Update Interval: 302.539764
+[2025.03.07-19.00.14:581][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4703.570312
+[2025.03.07-19.00.15:580][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-19.00.15:580][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4704.235840, Update Interval: 358.452698
+[2025.03.07-19.06.56:652][234]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5105.643066
+[2025.03.07-19.06.57:653][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-19.06.57:653][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5106.318848, Update Interval: 314.614105
+[2025.03.07-19.13.04:033][336]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5473.024902
+[2025.03.07-19.13.05:032][339]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-19.13.05:032][339]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5473.692871, Update Interval: 319.158905
+[2025.03.07-19.19.09:745][433]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5838.729980
+[2025.03.07-19.19.10:744][436]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-19.19.10:744][436]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5839.398438, Update Interval: 313.606995
+[2025.03.07-19.25.09:796][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6198.782715
+[2025.03.07-19.25.10:796][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-19.25.10:796][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6199.457031, Update Interval: 341.793274
+[2025.03.07-19.31.31:522][658]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6580.502930
+[2025.03.07-19.31.32:526][661]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-19.31.32:526][661]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6581.167969, Update Interval: 304.323242
+[2025.03.07-19.37.21:915][709]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6930.892090
+[2025.03.07-19.37.22:911][712]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-19.37.22:911][712]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6931.559570, Update Interval: 336.765045
+[2025.03.07-19.40.31:366][277]LogDerivedDataCache: C:/Users/abner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:28.112 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14676 files in 17354 folders with total size 3037 MiB.
+[2025.03.07-19.40.50:614][335]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 17b...0dc
+[2025.03.07-19.40.50:614][335]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.89 RefreshExpires: 1.554e+07
+[2025.03.07-19.40.51:617][338]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 17b...0dc Access[Expires: 2025.03.07-21.40.51 Remaining: 7200.08] Refresh[Expires: 2025-09-03T17:42:29.564Z Remaining: 15544898.56] State: Valid
+[2025.03.07-19.43.53:640][884]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7322.611816
+[2025.03.07-19.43.54:638][887]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-19.43.54:638][887]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7323.277344, Update Interval: 324.952545
+[2025.03.07-19.50.12:024][ 19]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7700.997070
+[2025.03.07-19.50.13:022][ 22]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-19.50.13:022][ 22]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7701.665527, Update Interval: 328.360229
+[2025.03.07-19.56.19:081][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8068.061035
+[2025.03.07-19.56.20:077][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-19.56.20:077][123]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8068.731445, Update Interval: 359.529419
+[2025.03.07-20.02.58:144][317]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8467.127930
+[2025.03.07-20.02.59:142][320]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-20.02.59:143][320]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8467.791992, Update Interval: 341.961731
+[2025.03.07-20.09.28:540][488]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8857.526367
+[2025.03.07-20.09.29:546][491]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-20.09.29:546][491]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8858.198242, Update Interval: 357.872253
+[2025.03.07-20.16.22:608][730]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9271.598633
+[2025.03.07-20.16.23:613][733]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-20.16.23:613][733]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9272.264648, Update Interval: 358.406921
+[2025.03.07-20.23.07:348][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9676.348633
+[2025.03.07-20.23.08:340][947]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-20.23.08:340][947]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9677.006836, Update Interval: 319.841919
+[2025.03.07-20.29.08:407][ 27]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10037.402344
+[2025.03.07-20.29.09:406][ 30]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-20.29.09:406][ 30]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10038.070312, Update Interval: 307.372040
+[2025.03.07-20.35.00:459][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10389.459961
+[2025.03.07-20.35.01:458][ 86]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-20.35.01:458][ 86]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10390.129883, Update Interval: 310.825531
+[2025.03.07-20.40.31:360][ 75]LogDerivedDataCache: C:/Users/abner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:28.106 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14676 files in 17354 folders with total size 3037 MiB.
+[2025.03.07-20.40.49:845][131]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10738.848633
+[2025.03.07-20.40.50:844][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-20.40.50:844][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10739.515625, Update Interval: 341.670593
+[2025.03.07-20.47.31:907][337]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11140.913086
+[2025.03.07-20.47.32:900][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-20.47.32:900][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11141.578125, Update Interval: 305.286407
+[2025.03.07-20.53.10:946][354]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11479.958008
+[2025.03.07-20.53.11:937][357]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-20.53.11:937][357]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11480.622070, Update Interval: 344.292725
+[2025.03.07-20.59.44:665][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11873.694336
+[2025.03.07-20.59.45:667][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-20.59.45:667][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11874.360352, Update Interval: 325.300446
+[2025.03.07-21.05.45:395][617]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12234.409180
+[2025.03.07-21.05.46:395][620]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-21.05.46:395][620]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12235.078125, Update Interval: 350.124817
+[2025.03.07-21.10.08:744][462]Cmd: EDIT COPY
+[2025.03.07-21.10.08:981][482]Cmd: EDIT PASTE
+[2025.03.07-21.10.15:724][266]Cmd: EDIT COPY
+[2025.03.07-21.10.15:961][294]Cmd: EDIT PASTE
+[2025.03.07-21.10.17:303][448]Cmd: EDIT COPY
+[2025.03.07-21.10.17:550][477]Cmd: EDIT PASTE
+[2025.03.07-21.10.20:036][746]Cmd: EDIT COPY
+[2025.03.07-21.10.20:277][768]Cmd: EDIT PASTE
+[2025.03.07-21.10.22:026][963]Cmd: EDIT COPY
+[2025.03.07-21.10.22:279][982]Cmd: EDIT PASTE
+[2025.03.07-21.10.23:437][108]Cmd: EDIT COPY
+[2025.03.07-21.10.23:666][135]Cmd: EDIT PASTE
+[2025.03.07-21.10.25:954][392]Cmd: EDIT COPY
+[2025.03.07-21.10.26:234][416]Cmd: EDIT PASTE
+[2025.03.07-21.10.27:391][542]Cmd: EDIT COPY
+[2025.03.07-21.10.27:649][572]Cmd: EDIT PASTE
+[2025.03.07-21.10.53:754][634]Cmd: EDIT COPY
+[2025.03.07-21.10.54:000][652]Cmd: EDIT PASTE
+[2025.03.07-21.11.02:336][589]Cmd: EDIT COPY
+[2025.03.07-21.11.02:592][610]Cmd: EDIT PASTE
+[2025.03.07-21.11.04:038][766]Cmd: EDIT COPY
+[2025.03.07-21.11.04:270][793]Cmd: EDIT PASTE
+[2025.03.07-21.11.05:938][979]Cmd: EDIT COPY
+[2025.03.07-21.11.06:192][998]Cmd: EDIT PASTE
+[2025.03.07-21.11.09:034][320]Cmd: EDIT COPY
+[2025.03.07-21.11.09:282][349]Cmd: EDIT PASTE
+[2025.03.07-21.11.18:677][407]LogEditorViewport: Clicking Background
+[2025.03.07-21.11.24:061][ 23]Cmd: EDIT COPY
+[2025.03.07-21.11.24:280][ 41]Cmd: EDIT PASTE
+[2025.03.07-21.11.26:416][278]Cmd: EDIT COPY
+[2025.03.07-21.11.26:649][296]Cmd: EDIT PASTE
+[2025.03.07-21.11.29:441][610]Cmd: EDIT COPY
+[2025.03.07-21.11.29:719][634]Cmd: EDIT PASTE
+[2025.03.07-21.11.44:681][299]Cmd: EDIT COPY
+[2025.03.07-21.11.44:929][328]Cmd: EDIT PASTE
+[2025.03.07-21.11.55:781][568]Cmd: EDIT COPY
+[2025.03.07-21.11.56:063][601]Cmd: EDIT PASTE
+[2025.03.07-21.12.09:975][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12619.108398
+[2025.03.07-21.12.10:059][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-21.12.10:059][183]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12619.182617, Update Interval: 350.903046
+[2025.03.07-21.12.15:901][838]Cmd: EDIT COPY
+[2025.03.07-21.12.16:163][857]Cmd: EDIT PASTE
+[2025.03.07-21.12.24:301][753]Cmd: EDIT COPY
+[2025.03.07-21.12.24:571][775]Cmd: EDIT PASTE
+[2025.03.07-21.12.28:851][266]Cmd: EDIT COPY
+[2025.03.07-21.12.29:116][292]Cmd: EDIT PASTE
+[2025.03.07-21.12.35:925][ 36]Cmd: DELETE
+[2025.03.07-21.12.35:925][ 36]Cmd: ACTOR DELETE
+[2025.03.07-21.12.35:929][ 36]LogEditorActor: Actor SM_MetalWallPart_262 is referenced by GroupActor_26.
+[2025.03.07-21.12.38:474][ 36]LogSlate: Window 'Message' being destroyed
+[2025.03.07-21.12.38:488][ 36]Message dialog closed, result: YesAll, title: Message, text: Actor SM_MetalWallPart_262 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_26
+[2025.03.07-21.12.38:489][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.12.38:489][ 36]LogEditorActor: Actor SM_MetalWallPart_263 is referenced by GroupActor_26.
+[2025.03.07-21.12.38:489][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.12.38:489][ 36]LogEditorActor: Actor SM_MetalWall_54 is referenced by GroupActor_26.
+[2025.03.07-21.12.38:490][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.12.38:490][ 36]LogEditorActor: Actor SM_MetalWallPart_264 is referenced by GroupActor_26.
+[2025.03.07-21.12.38:490][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.12.38:490][ 36]LogEditorActor: Actor SM_MetalWallPart_265 is referenced by GroupActor_26.
+[2025.03.07-21.12.38:490][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.12.38:490][ 36]LogEditorActor: Actor SM_MetalWallPart_266 is referenced by GroupActor_26.
+[2025.03.07-21.12.38:490][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.12.38:490][ 36]LogEditorActor: Actor SM_MetalWall_55 is referenced by GroupActor_26.
+[2025.03.07-21.12.38:491][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.12.38:491][ 36]LogEditorActor: Actor SM_MetalWallPart_267 is referenced by GroupActor_26.
+[2025.03.07-21.12.38:491][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.12.38:491][ 36]LogEditorActor: Actor SM_MetalWallPart_268 is referenced by GroupActor_26.
+[2025.03.07-21.12.38:492][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.12.38:492][ 36]LogEditorActor: Actor SM_MetalWallPart_269 is referenced by GroupActor_26.
+[2025.03.07-21.12.38:492][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.12.38:492][ 36]LogEditorActor: Actor SM_MetalWallPart_270 is referenced by GroupActor_26.
+[2025.03.07-21.12.38:492][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.12.38:492][ 36]LogEditorActor: Actor SM_MetalWallPart_271 is referenced by GroupActor_26.
+[2025.03.07-21.12.38:492][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.12.38:496][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.07-21.12.38:501][ 36]LogEditorActor: Deleted 12 Actors (0.017 secs)
+[2025.03.07-21.12.38:518][ 36]LogAutomationController: Ignoring very large delta of 2.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.07-21.12.47:858][ 88]Cmd: EDIT COPY
+[2025.03.07-21.12.48:104][108]Cmd: EDIT PASTE
+[2025.03.07-21.13.00:921][524]Cmd: EDIT COPY
+[2025.03.07-21.13.01:222][553]Cmd: EDIT PASTE
+[2025.03.07-21.13.04:169][900]Cmd: EDIT COPY
+[2025.03.07-21.13.04:500][939]Cmd: EDIT PASTE
+[2025.03.07-21.13.06:195][132]Cmd: TRANSACTION UNDO
+[2025.03.07-21.13.06:195][132]LogEditorTransaction: Undo Move Elements
+[2025.03.07-21.13.18:724][447]Cmd: EDIT COPY
+[2025.03.07-21.13.18:981][477]Cmd: EDIT PASTE
+[2025.03.07-21.13.27:672][431]Cmd: EDIT COPY
+[2025.03.07-21.13.27:938][451]Cmd: EDIT PASTE
+[2025.03.07-21.13.50:052][836]Cmd: EDIT COPY
+[2025.03.07-21.13.50:351][871]Cmd: EDIT PASTE
+[2025.03.07-21.14.17:637][857]LogEditorViewport: Clicking Background
+[2025.03.07-21.14.25:655][788]Cmd: EDIT COPY
+[2025.03.07-21.14.25:903][806]Cmd: EDIT PASTE
+[2025.03.07-21.14.44:955][829]Cmd: EDIT COPY
+[2025.03.07-21.14.45:230][861]Cmd: EDIT PASTE
+[2025.03.07-21.14.48:381][216]LogEditorViewport: Clicking Background
+[2025.03.07-21.14.59:940][520]Cmd: EDIT COPY
+[2025.03.07-21.15.00:217][552]Cmd: EDIT PASTE
+[2025.03.07-21.15.07:028][294]Cmd: TRANSACTION UNDO
+[2025.03.07-21.15.07:028][294]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.07-21.15.11:687][756]Cmd: EDIT COPY
+[2025.03.07-21.15.11:914][776]Cmd: EDIT PASTE
+[2025.03.07-21.15.17:964][490]Cmd: EDIT PASTE
+[2025.03.07-21.15.19:111][579]Cmd: TRANSACTION UNDO
+[2025.03.07-21.15.19:111][579]LogEditorTransaction: Undo Paste
+[2025.03.07-21.15.22:209][882]Cmd: EDIT COPY
+[2025.03.07-21.15.22:485][914]Cmd: EDIT PASTE
+[2025.03.07-21.15.37:458][547]Cmd: EDIT COPY
+[2025.03.07-21.15.37:741][580]Cmd: EDIT PASTE
+[2025.03.07-21.15.53:317][345]Cmd: EDIT COPY
+[2025.03.07-21.15.53:600][378]Cmd: EDIT PASTE
+[2025.03.07-21.16.09:482][119]Cmd: EDIT COPY
+[2025.03.07-21.16.09:747][140]Cmd: EDIT PASTE
+[2025.03.07-21.16.20:165][295]Cmd: EDIT COPY
+[2025.03.07-21.16.20:444][320]Cmd: EDIT PASTE
+[2025.03.07-21.16.46:450][243]Cmd: DELETE
+[2025.03.07-21.16.46:450][243]Cmd: ACTOR DELETE
+[2025.03.07-21.16.46:456][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.16.46:467][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.07-21.16.46:473][243]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.03.07-21.16.47:325][338]Cmd: DELETE
+[2025.03.07-21.16.47:325][338]Cmd: ACTOR DELETE
+[2025.03.07-21.16.47:331][338]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.16.47:338][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.07-21.16.47:341][338]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.03.07-21.17.04:642][186]Cmd: TRANSACTION UNDO
+[2025.03.07-21.17.04:642][186]LogEditorTransaction: Undo Move Elements
+[2025.03.07-21.17.11:332][899]Cmd: TRANSACTION UNDO
+[2025.03.07-21.17.11:332][899]LogEditorTransaction: Undo Move Elements
+[2025.03.07-21.17.15:879][350]Cmd: DELETE
+[2025.03.07-21.17.15:879][350]Cmd: ACTOR DELETE
+[2025.03.07-21.17.15:885][350]LogEditorActor: Actor SM_MetalWallPart_652 is referenced by GroupActor_66.
+[2025.03.07-21.17.17:756][350]LogSlate: Window 'Message' being destroyed
+[2025.03.07-21.17.17:765][350]Message dialog closed, result: YesAll, title: Message, text: Actor SM_MetalWallPart_652 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_66
+[2025.03.07-21.17.17:767][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.17.17:767][350]LogEditorActor: Actor SM_MetalWallPart_653 is referenced by GroupActor_66.
+[2025.03.07-21.17.17:768][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.17.17:768][350]LogEditorActor: Actor SM_MetalWall_132 is referenced by GroupActor_66.
+[2025.03.07-21.17.17:769][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.17.17:769][350]LogEditorActor: Actor SM_MetalWallPart_654 is referenced by GroupActor_66.
+[2025.03.07-21.17.17:769][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.17.17:769][350]LogEditorActor: Actor SM_MetalWallPart_655 is referenced by GroupActor_66.
+[2025.03.07-21.17.17:769][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.17.17:770][350]LogEditorActor: Actor SM_MetalWallPart_656 is referenced by GroupActor_66.
+[2025.03.07-21.17.17:770][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.17.17:770][350]LogEditorActor: Actor SM_MetalWall_133 is referenced by GroupActor_66.
+[2025.03.07-21.17.17:770][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.17.17:770][350]LogEditorActor: Actor SM_MetalWallPart_657 is referenced by GroupActor_66.
+[2025.03.07-21.17.17:770][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.17.17:770][350]LogEditorActor: Actor SM_MetalWallPart_658 is referenced by GroupActor_66.
+[2025.03.07-21.17.17:770][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.17.17:770][350]LogEditorActor: Actor SM_MetalWallPart_659 is referenced by GroupActor_66.
+[2025.03.07-21.17.17:770][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.17.17:770][350]LogEditorActor: Actor SM_MetalWallPart_660 is referenced by GroupActor_66.
+[2025.03.07-21.17.17:770][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.17.17:770][350]LogEditorActor: Actor SM_MetalWallPart_661 is referenced by GroupActor_66.
+[2025.03.07-21.17.17:771][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.17.17:776][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.07-21.17.17:780][350]LogEditorActor: Deleted 12 Actors (0.021 secs)
+[2025.03.07-21.17.19:123][474]Cmd: EDIT COPY
+[2025.03.07-21.17.19:381][491]Cmd: EDIT PASTE
+[2025.03.07-21.17.22:732][861]LogEditorViewport: Clicking Background
+[2025.03.07-21.17.26:357][255]Cmd: EDIT COPY
+[2025.03.07-21.17.26:642][287]Cmd: EDIT PASTE
+[2025.03.07-21.17.30:316][709]Cmd: EDIT COPY
+[2025.03.07-21.17.30:567][729]Cmd: EDIT PASTE
+[2025.03.07-21.17.38:954][689]Cmd: EDIT COPY
+[2025.03.07-21.17.39:232][717]Cmd: EDIT PASTE
+[2025.03.07-21.17.47:992][685]Cmd: EDIT COPY
+[2025.03.07-21.17.48:267][704]Cmd: EDIT PASTE
+[2025.03.07-21.17.53:359][251]Cmd: EDIT COPY
+[2025.03.07-21.17.53:632][283]Cmd: EDIT PASTE
+[2025.03.07-21.18.02:140][173]Cmd: EDIT COPY
+[2025.03.07-21.18.02:392][190]Cmd: EDIT PASTE
+[2025.03.07-21.18.18:381][  4]LogEditorViewport: Clicking Background
+[2025.03.07-21.18.24:697][721]Cmd: EDIT COPY
+[2025.03.07-21.18.24:938][741]Cmd: EDIT PASTE
+[2025.03.07-21.18.34:590][848]Cmd: EDIT COPY
+[2025.03.07-21.18.34:848][878]Cmd: EDIT PASTE
+[2025.03.07-21.18.36:046][ 11]Cmd: EDIT COPY
+[2025.03.07-21.18.36:287][ 39]Cmd: EDIT PASTE
+[2025.03.07-21.18.37:591][185]Cmd: EDIT COPY
+[2025.03.07-21.18.37:822][212]Cmd: EDIT PASTE
+[2025.03.07-21.18.41:397][618]Cmd: EDIT COPY
+[2025.03.07-21.18.41:651][635]Cmd: EDIT PASTE
+[2025.03.07-21.18.43:441][830]Cmd: TRANSACTION UNDO
+[2025.03.07-21.18.43:441][830]LogEditorTransaction: Undo Move Elements
+[2025.03.07-21.18.45:966][ 91]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13015.658203
+[2025.03.07-21.18.46:049][101]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-21.18.46:049][101]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13015.732422, Update Interval: 354.169739
+[2025.03.07-21.18.48:519][350]Cmd: EDIT COPY
+[2025.03.07-21.18.48:794][370]Cmd: EDIT PASTE
+[2025.03.07-21.18.58:876][439]Cmd: EDIT COPY
+[2025.03.07-21.18.59:136][464]Cmd: EDIT PASTE
+[2025.03.07-21.19.09:907][623]Cmd: EDIT COPY
+[2025.03.07-21.19.10:218][649]Cmd: EDIT PASTE
+[2025.03.07-21.19.14:471][126]LogEditorViewport: Clicking Background
+[2025.03.07-21.19.26:421][543]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.07-21.19.37:999][893]Cmd: MODE ROTGRID=0
+[2025.03.07-21.19.53:583][711]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.07-21.19.53:588][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.07-21.19.53:588][711]PIE: New page: PIE session: Working (Mar 7, 2025, 11:19:53 AM)
+[2025.03.07-21.19.53:612][711]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Working
+[2025.03.07-21.19.53:649][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036682s)
+[2025.03.07-21.19.53:649][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Working.Working to /Game/Maps/UEDPIE_0_Working.Working (0.036712s)
+[2025.03.07-21.19.53:657][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.07-21.19.53:663][711]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.19.53:663][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.07-21.19.53:663][711]LogAIModule: Creating AISystem for world Working
+[2025.03.07-21.19.53:663][711]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2025.03.07-21.19.53:663][711]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.03.07-21.19.53:664][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.07-21.19.53:664][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.07-21.19.53:664][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.07-21.19.53:664][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.07-21.19.53:664][711]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.07-21.19.53:664][711]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.07-21.19.53:664][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.07-21.19.53:664][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.07-21.19.53:664][711]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.07-21.19.53:664][711]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.07-21.19.53:664][711]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.07-21.19.53:665][711]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.07-21.19.53:677][711]LogAudioMixer: Display: Using Audio Hardware Device Speakers (4- Logitech G733 Gaming Headset)
+[2025.03.07-21.19.53:678][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.07-21.19.53:678][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.07-21.19.53:678][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.07-21.19.53:678][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.03.07-21.19.53:678][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=10
+[2025.03.07-21.19.53:679][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.03.07-21.19.53:679][711]LogInit: FAudioDevice initialized with ID 10.
+[2025.03.07-21.19.53:679][711]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.03.07-21.19.53:679][711]LogAudio: Display: Audio Device (ID: 10) registered with world 'Working'.
+[2025.03.07-21.19.53:679][711]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.07-21.19.53:682][711]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.07-21.19.53:697][711]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Working.Working up for play (max tick rate 0) at 2025.03.07-16.19.53
+[2025.03.07-21.19.53:697][711]LogWorld: Bringing up level for play took: 0.015895
+[2025.03.07-21.19.53:698][711]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.03.07-21.19.53:701][711]PIE: Server logged in
+[2025.03.07-21.19.53:702][711]PIE: Play in editor total start time 0.115 seconds.
+[2025.03.07-21.20.22:412][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-21.20.22:412][149]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Working
+[2025.03.07-21.20.22:412][149]LogWorld: UWorld::CleanupWorld for Working, bSessionEnded=true, bCleanupResources=true
+[2025.03.07-21.20.22:416][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-21.20.22:418][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.07-21.20.22:421][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-21.20.22:432][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-21.20.22:435][149]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.07-21.20.22:435][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.07-21.20.22:436][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.07-21.20.22:444][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.07-21.20.22:489][150]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.03.07-21.20.31:973][227]Cmd: EDIT COPY
+[2025.03.07-21.20.32:231][257]Cmd: EDIT PASTE
+[2025.03.07-21.20.43:514][530]Cmd: DELETE
+[2025.03.07-21.20.43:514][530]Cmd: ACTOR DELETE
+[2025.03.07-21.20.43:521][530]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.20.43:531][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.07-21.20.43:535][530]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.03.07-21.20.44:736][665]Cmd: DELETE
+[2025.03.07-21.20.44:736][665]Cmd: ACTOR DELETE
+[2025.03.07-21.20.44:745][665]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.20.44:753][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.03.07-21.20.44:755][665]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.03.07-21.20.45:320][725]Cmd: DELETE
+[2025.03.07-21.20.45:320][725]Cmd: ACTOR DELETE
+[2025.03.07-21.20.45:328][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.20.45:334][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.03.07-21.20.45:336][725]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.03.07-21.20.45:795][773]Cmd: DELETE
+[2025.03.07-21.20.45:795][773]Cmd: ACTOR DELETE
+[2025.03.07-21.20.45:803][773]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.20.45:809][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.07-21.20.45:811][773]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.03.07-21.20.58:957][303]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofEnd02.SM_LargeRoofEnd02
+[2025.03.07-21.20.58:957][303]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofEnd02.SM_LargeRoofEnd02
+[2025.03.07-21.20.58:958][303]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofEnd02.SM_LargeRoofEnd02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1118
+[2025.03.07-21.20.59:548][369]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofEnd02.SM_LargeRoofEnd02
+[2025.03.07-21.20.59:548][369]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofEnd02.SM_LargeRoofEnd02
+[2025.03.07-21.20.59:550][369]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofEnd02.SM_LargeRoofEnd02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1119
+[2025.03.07-21.21.00:726][499]Cmd: TRANSACTION UNDO
+[2025.03.07-21.21.00:726][499]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.21.01:468][536]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.21.01:468][536]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.21.01:468][536]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1120
+[2025.03.07-21.21.03:328][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.21.03:328][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.21.03:329][750]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1121
+[2025.03.07-21.21.03:630][780]Cmd: TRANSACTION UNDO
+[2025.03.07-21.21.03:630][780]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.21.03:970][811]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame02.SM_RoofFrame02
+[2025.03.07-21.21.03:970][811]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame02.SM_RoofFrame02
+[2025.03.07-21.21.03:971][811]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_RoofFrame02.SM_RoofFrame02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1122
+[2025.03.07-21.21.05:032][933]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame02.SM_RoofFrame02
+[2025.03.07-21.21.05:032][933]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame02.SM_RoofFrame02
+[2025.03.07-21.21.05:034][933]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_RoofFrame02.SM_RoofFrame02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1123
+[2025.03.07-21.21.18:855][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.21.18:855][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.21.18:856][478]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1124
+[2025.03.07-21.21.19:739][579]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.21.19:739][579]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.21.19:740][579]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1125
+[2025.03.07-21.22.04:073][616]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02
+[2025.03.07-21.22.04:073][616]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02
+[2025.03.07-21.22.04:075][616]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1126
+[2025.03.07-21.22.05:272][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02
+[2025.03.07-21.22.05:272][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02
+[2025.03.07-21.22.05:273][753]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1127
+[2025.03.07-21.22.11:304][469]Cmd: DELETE
+[2025.03.07-21.22.11:304][469]Cmd: ACTOR DELETE
+[2025.03.07-21.22.11:313][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.22.11:320][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.07-21.22.11:324][469]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.03.07-21.22.14:810][859]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofEnd01.SM_LargeRoofEnd01
+[2025.03.07-21.22.14:810][859]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofEnd01.SM_LargeRoofEnd01
+[2025.03.07-21.22.14:810][859]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofEnd01.SM_LargeRoofEnd01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1128
+[2025.03.07-21.22.16:350][ 41]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofEnd01.SM_LargeRoofEnd01
+[2025.03.07-21.22.16:350][ 41]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofEnd01.SM_LargeRoofEnd01
+[2025.03.07-21.22.16:351][ 41]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofEnd01.SM_LargeRoofEnd01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1129
+[2025.03.07-21.22.27:643][305]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofEnd02.SM_LargeRoofEnd02
+[2025.03.07-21.22.27:643][305]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofEnd02.SM_LargeRoofEnd02
+[2025.03.07-21.22.27:644][305]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofEnd02.SM_LargeRoofEnd02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1130
+[2025.03.07-21.22.28:667][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofEnd02.SM_LargeRoofEnd02
+[2025.03.07-21.22.28:667][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofEnd02.SM_LargeRoofEnd02
+[2025.03.07-21.22.28:668][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofEnd02.SM_LargeRoofEnd02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1131
+[2025.03.07-21.22.29:042][457]Cmd: TRANSACTION UNDO
+[2025.03.07-21.22.29:042][457]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.22.30:162][546]Cmd: EDIT COPY
+[2025.03.07-21.22.30:421][576]Cmd: EDIT PASTE
+[2025.03.07-21.22.50:601][905]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.22.50:601][905]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.22.50:601][905]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1133
+[2025.03.07-21.22.51:753][ 33]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.22.51:753][ 33]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.22.51:754][ 33]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1134
+[2025.03.07-21.22.52:421][105]Cmd: TRANSACTION UNDO
+[2025.03.07-21.22.52:421][105]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.22.54:328][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02
+[2025.03.07-21.22.54:328][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02
+[2025.03.07-21.22.54:329][278]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1135
+[2025.03.07-21.22.55:278][374]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02
+[2025.03.07-21.22.55:278][374]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02
+[2025.03.07-21.22.55:279][374]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1136
+[2025.03.07-21.23.14:210][512]Cmd: TRANSACTION UNDO
+[2025.03.07-21.23.14:210][512]LogEditorTransaction: Undo Scale Elements
+[2025.03.07-21.23.16:158][701]Cmd: MODE SCALEGRID=0
+[2025.03.07-21.23.21:052][280]Cmd: MODE GRID=0
+[2025.03.07-21.23.28:195][125]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.07-21.23.28:199][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.07-21.23.28:199][125]PIE: New page: PIE session: Working (Mar 7, 2025, 11:23:28 AM)
+[2025.03.07-21.23.28:232][125]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Working
+[2025.03.07-21.23.28:269][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036853s)
+[2025.03.07-21.23.28:269][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Working.Working to /Game/Maps/UEDPIE_0_Working.Working (0.036886s)
+[2025.03.07-21.23.28:276][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.07-21.23.28:280][125]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.23.28:280][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.07-21.23.28:281][125]LogAIModule: Creating AISystem for world Working
+[2025.03.07-21.23.28:281][125]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2025.03.07-21.23.28:281][125]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.03.07-21.23.28:281][125]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.07-21.23.28:281][125]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.07-21.23.28:281][125]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.07-21.23.28:281][125]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.07-21.23.28:281][125]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.07-21.23.28:281][125]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.07-21.23.28:281][125]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.07-21.23.28:281][125]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.07-21.23.28:282][125]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.07-21.23.28:282][125]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.07-21.23.28:282][125]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.07-21.23.28:283][125]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.07-21.23.28:295][125]LogAudioMixer: Display: Using Audio Hardware Device Speakers (4- Logitech G733 Gaming Headset)
+[2025.03.07-21.23.28:296][125]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.07-21.23.28:296][125]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.07-21.23.28:296][125]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.07-21.23.28:297][125]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.03.07-21.23.28:297][125]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=11
+[2025.03.07-21.23.28:298][125]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.03.07-21.23.28:298][125]LogInit: FAudioDevice initialized with ID 11.
+[2025.03.07-21.23.28:298][125]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.03.07-21.23.28:298][125]LogAudio: Display: Audio Device (ID: 11) registered with world 'Working'.
+[2025.03.07-21.23.28:298][125]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.07-21.23.28:300][125]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.07-21.23.28:317][125]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Working.Working up for play (max tick rate 0) at 2025.03.07-16.23.28
+[2025.03.07-21.23.28:317][125]LogWorld: Bringing up level for play took: 0.016779
+[2025.03.07-21.23.28:319][125]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.03.07-21.23.28:321][125]PIE: Server logged in
+[2025.03.07-21.23.28:321][125]PIE: Play in editor total start time 0.123 seconds.
+[2025.03.07-21.23.39:472][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-21.23.39:472][445]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Working
+[2025.03.07-21.23.39:472][445]LogWorld: UWorld::CleanupWorld for Working, bSessionEnded=true, bCleanupResources=true
+[2025.03.07-21.23.39:476][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-21.23.39:478][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.07-21.23.39:479][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-21.23.39:487][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-21.23.39:491][445]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.07-21.23.39:491][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.07-21.23.39:492][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.07-21.23.39:500][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.07-21.23.39:554][446]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.03.07-21.23.42:612][807]Cmd: DELETE
+[2025.03.07-21.23.42:612][807]Cmd: ACTOR DELETE
+[2025.03.07-21.23.42:620][807]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.23.42:626][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.07-21.23.42:629][807]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.03.07-21.23.49:588][547]Cmd: TRANSACTION UNDO
+[2025.03.07-21.23.49:588][547]LogEditorTransaction: Undo Scale Elements
+[2025.03.07-21.23.50:578][622]Cmd: MODE SCALEGRID=1
+[2025.03.07-21.23.58:415][491]Cmd: TRANSACTION UNDO
+[2025.03.07-21.23.58:415][491]LogEditorTransaction: Undo Scale Elements
+[2025.03.07-21.24.02:407][917]Cmd: MODE GRID=1
+[2025.03.07-21.24.12:062][965]Cmd: PIVOT CENTERSELECTION
+[2025.03.07-21.24.14:213][222]Cmd: DELETE
+[2025.03.07-21.24.14:213][222]Cmd: ACTOR DELETE
+[2025.03.07-21.24.14:221][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.24.14:229][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.07-21.24.14:233][222]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.03.07-21.24.16:801][495]Cmd: EDIT COPY
+[2025.03.07-21.24.17:070][516]Cmd: EDIT PASTE
+[2025.03.07-21.24.55:439][969]LogEditorViewport: Clicking Background
+[2025.03.07-21.25.08:369][425]Cmd: EDIT COPY
+[2025.03.07-21.25.08:624][450]Cmd: EDIT PASTE
+[2025.03.07-21.25.13:525][ 31]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13403.699219
+[2025.03.07-21.25.13:614][ 38]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-21.25.13:614][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13403.771484, Update Interval: 348.187500
+[2025.03.07-21.25.17:583][485]Cmd: EDIT COPY
+[2025.03.07-21.25.17:850][503]Cmd: EDIT PASTE
+[2025.03.07-21.25.27:292][522]Cmd: EDIT COPY
+[2025.03.07-21.25.27:572][543]Cmd: EDIT PASTE
+[2025.03.07-21.25.30:277][851]Cmd: EDIT COPY
+[2025.03.07-21.25.30:537][868]Cmd: EDIT PASTE
+[2025.03.07-21.25.44:685][465]Cmd: EDIT COPY
+[2025.03.07-21.25.44:939][486]Cmd: EDIT PASTE
+[2025.03.07-21.25.50:811][126]Cmd: EDIT COPY
+[2025.03.07-21.25.51:063][152]Cmd: EDIT PASTE
+[2025.03.07-21.25.57:021][801]Cmd: TRANSACTION UNDO
+[2025.03.07-21.25.57:021][801]LogEditorTransaction: Undo Scale Elements
+[2025.03.07-21.26.09:269][161]LogEditorViewport: Clicking Background
+[2025.03.07-21.26.12:797][510]Cmd: TRANSACTION UNDO
+[2025.03.07-21.26.12:797][510]LogEditorTransaction: Undo Scale Elements
+[2025.03.07-21.26.17:839][ 65]Cmd: TRANSACTION UNDO
+[2025.03.07-21.26.17:839][ 65]LogEditorTransaction: Undo Scale Elements
+[2025.03.07-21.26.27:779][113]LogEditorViewport: Clicking Background
+[2025.03.07-21.26.45:519][149]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.07-21.26.47:832][395]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.07-21.26.48:126][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.07-21.26.48:169][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.07-21.26.48:301][420]LogSavePackage: Moving output files for package: /Game/Maps/Working
+[2025.03.07-21.26.48:302][420]LogSavePackage: Moving '../../../../../../Users/abner/UnrealProject/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Saved/WorkingFFA169D84B1BCBD01A95C59041F690F1.tmp' to '../../../../../../Users/abner/UnrealProject/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working.umap'
+[2025.03.07-21.26.48:309][420]LogFileHelpers: All files are already saved.
+[2025.03.07-21.26.48:309][420]LogFileHelpers: Saving map 'Working' took 0.157
+[2025.03.07-21.26.48:312][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 468 ms)
+[2025.03.07-21.26.48:315][420]AssetCheck: New page: Asset Save: Working
+[2025.03.07-21.26.48:315][420]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Working.Working
+[2025.03.07-21.26.48:977][499]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.07-21.26.48:981][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.07-21.26.48:981][499]PIE: New page: PIE session: Working (Mar 7, 2025, 11:26:48 AM)
+[2025.03.07-21.26.49:012][499]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Working
+[2025.03.07-21.26.49:049][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037461s)
+[2025.03.07-21.26.49:049][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Working.Working to /Game/Maps/UEDPIE_0_Working.Working (0.037501s)
+[2025.03.07-21.26.49:057][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.07-21.26.49:058][499]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.26.49:058][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.07-21.26.49:058][499]LogAIModule: Creating AISystem for world Working
+[2025.03.07-21.26.49:058][499]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2025.03.07-21.26.49:058][499]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.03.07-21.26.49:058][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.07-21.26.49:058][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.07-21.26.49:058][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.07-21.26.49:059][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.07-21.26.49:059][499]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.07-21.26.49:059][499]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.07-21.26.49:059][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.07-21.26.49:059][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.07-21.26.49:059][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.07-21.26.49:059][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.07-21.26.49:059][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.07-21.26.49:060][499]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.07-21.26.49:072][499]LogAudioMixer: Display: Using Audio Hardware Device Speakers (4- Logitech G733 Gaming Headset)
+[2025.03.07-21.26.49:072][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.07-21.26.49:072][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.07-21.26.49:072][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.07-21.26.49:074][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.03.07-21.26.49:074][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=12
+[2025.03.07-21.26.49:075][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.03.07-21.26.49:075][499]LogInit: FAudioDevice initialized with ID 12.
+[2025.03.07-21.26.49:075][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.03.07-21.26.49:075][499]LogAudio: Display: Audio Device (ID: 12) registered with world 'Working'.
+[2025.03.07-21.26.49:075][499]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.07-21.26.49:077][499]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.07-21.26.49:093][499]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Working.Working up for play (max tick rate 0) at 2025.03.07-16.26.49
+[2025.03.07-21.26.49:093][499]LogWorld: Bringing up level for play took: 0.016302
+[2025.03.07-21.26.49:095][499]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.03.07-21.26.49:097][499]PIE: Server logged in
+[2025.03.07-21.26.49:097][499]PIE: Play in editor total start time 0.117 seconds.
+[2025.03.07-21.26.55:392][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-21.26.55:392][243]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Working
+[2025.03.07-21.26.55:393][243]LogWorld: UWorld::CleanupWorld for Working, bSessionEnded=true, bCleanupResources=true
+[2025.03.07-21.26.55:395][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-21.26.55:398][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.07-21.26.55:400][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-21.26.55:407][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-21.26.55:410][243]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.07-21.26.55:410][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.07-21.26.55:412][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.07-21.26.55:419][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.07-21.26.55:455][244]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.03.07-21.27.00:303][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01
+[2025.03.07-21.27.00:304][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01
+[2025.03.07-21.27.00:304][793]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1150
+[2025.03.07-21.27.01:469][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01
+[2025.03.07-21.27.01:469][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01
+[2025.03.07-21.27.01:471][924]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1151
+[2025.03.07-21.27.08:226][688]Cmd: DELETE
+[2025.03.07-21.27.08:226][688]Cmd: ACTOR DELETE
+[2025.03.07-21.27.08:234][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.08:244][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.07-21.27.08:247][688]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.03.07-21.27.11:257][ 35]Cmd: DELETE
+[2025.03.07-21.27.11:257][ 35]Cmd: ACTOR DELETE
+[2025.03.07-21.27.11:266][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.11:276][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.03.07-21.27.11:278][ 35]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.03.07-21.27.11:857][ 95]Cmd: DELETE
+[2025.03.07-21.27.11:857][ 95]Cmd: ACTOR DELETE
+[2025.03.07-21.27.11:866][ 95]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.11:872][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.07-21.27.11:874][ 95]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.03.07-21.27.12:592][172]Cmd: DELETE
+[2025.03.07-21.27.12:592][172]Cmd: ACTOR DELETE
+[2025.03.07-21.27.12:600][172]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.12:611][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.07-21.27.12:613][172]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.03.07-21.27.16:859][669]Cmd: DELETE
+[2025.03.07-21.27.16:859][669]Cmd: ACTOR DELETE
+[2025.03.07-21.27.16:866][669]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.16:867][669]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.16:867][669]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.16:867][669]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.16:868][669]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.16:868][669]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.16:875][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.07-21.27.16:877][669]LogEditorActor: Deleted 6 Actors (0.018 secs)
+[2025.03.07-21.27.25:322][666]Cmd: DELETE
+[2025.03.07-21.27.25:322][666]Cmd: ACTOR DELETE
+[2025.03.07-21.27.25:330][666]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.25:330][666]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.25:330][666]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.25:331][666]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.25:331][666]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.25:331][666]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.25:331][666]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.27.25:342][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.07-21.27.25:346][666]LogEditorActor: Deleted 7 Actors (0.024 secs)
+[2025.03.07-21.27.36:551][957]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01
+[2025.03.07-21.27.36:551][957]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01
+[2025.03.07-21.27.36:552][957]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1152
+[2025.03.07-21.27.39:270][270]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01
+[2025.03.07-21.27.39:270][270]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01
+[2025.03.07-21.27.39:271][270]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1153
+[2025.03.07-21.27.40:132][372]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01
+[2025.03.07-21.27.40:132][372]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01
+[2025.03.07-21.27.40:134][372]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofMerged01.SM_LargeRoofMerged01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1154
+[2025.03.07-21.27.40:598][421]Cmd: TRANSACTION UNDO
+[2025.03.07-21.27.40:598][421]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.27.40:981][435]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02
+[2025.03.07-21.27.40:981][435]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02
+[2025.03.07-21.27.40:982][435]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1155
+[2025.03.07-21.27.41:394][468]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02
+[2025.03.07-21.27.41:394][468]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02
+[2025.03.07-21.27.41:395][468]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_LargeRoofMerged02.SM_LargeRoofMerged02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1156
+[2025.03.07-21.27.58:512][366]Cmd: EDIT COPY
+[2025.03.07-21.27.58:758][388]Cmd: EDIT PASTE
+[2025.03.07-21.28.03:488][942]Cmd: TRANSACTION UNDO
+[2025.03.07-21.28.03:488][942]LogEditorTransaction: Undo Scale Elements
+[2025.03.07-21.28.33:906][368]LogEditorViewport: Clicking Background
+[2025.03.07-21.28.36:517][658]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.07-21.28.36:522][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.07-21.28.36:522][658]PIE: New page: PIE session: Working (Mar 7, 2025, 11:28:36 AM)
+[2025.03.07-21.28.36:562][658]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Working
+[2025.03.07-21.28.36:599][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038223s)
+[2025.03.07-21.28.36:599][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Working.Working to /Game/Maps/UEDPIE_0_Working.Working (0.038265s)
+[2025.03.07-21.28.36:608][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.07-21.28.36:611][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.28.36:611][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.07-21.28.36:611][658]LogAIModule: Creating AISystem for world Working
+[2025.03.07-21.28.36:613][658]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2025.03.07-21.28.36:613][658]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.03.07-21.28.36:613][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.07-21.28.36:613][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.07-21.28.36:613][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.07-21.28.36:613][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.07-21.28.36:613][658]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.07-21.28.36:613][658]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.07-21.28.36:613][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.07-21.28.36:613][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.07-21.28.36:613][658]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.07-21.28.36:613][658]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.07-21.28.36:613][658]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.07-21.28.36:615][658]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.07-21.28.36:626][658]LogAudioMixer: Display: Using Audio Hardware Device Speakers (4- Logitech G733 Gaming Headset)
+[2025.03.07-21.28.36:627][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.07-21.28.36:627][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.07-21.28.36:627][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.07-21.28.36:627][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.03.07-21.28.36:627][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=13
+[2025.03.07-21.28.36:628][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.03.07-21.28.36:628][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.03.07-21.28.36:628][658]LogInit: FAudioDevice initialized with ID 13.
+[2025.03.07-21.28.36:628][658]LogAudio: Display: Audio Device (ID: 13) registered with world 'Working'.
+[2025.03.07-21.28.36:628][658]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.07-21.28.36:630][658]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.07-21.28.36:646][658]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Working.Working up for play (max tick rate 0) at 2025.03.07-16.28.36
+[2025.03.07-21.28.36:647][658]LogWorld: Bringing up level for play took: 0.015805
+[2025.03.07-21.28.36:648][658]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.03.07-21.28.36:650][658]PIE: Server logged in
+[2025.03.07-21.28.36:650][658]PIE: Play in editor total start time 0.129 seconds.
+[2025.03.07-21.28.39:632][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-21.28.39:632][998]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Working
+[2025.03.07-21.28.39:633][998]LogWorld: UWorld::CleanupWorld for Working, bSessionEnded=true, bCleanupResources=true
+[2025.03.07-21.28.39:635][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-21.28.39:638][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.07-21.28.39:640][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-21.28.39:650][998]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.07-21.28.39:650][998]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.07-21.28.39:650][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.07-21.28.39:651][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.07-21.28.39:655][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-21.28.39:662][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.07-21.28.39:705][  0]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.03.07-21.29.29:371][634]LogEditorViewport: Clicking Background
+[2025.03.07-21.29.49:835][985]Cmd: EDIT COPY
+[2025.03.07-21.29.50:110][ 12]Cmd: EDIT PASTE
+[2025.03.07-21.29.53:497][397]Cmd: TRANSACTION UNDO
+[2025.03.07-21.29.53:497][397]LogEditorTransaction: Undo Rotate Elements
+[2025.03.07-21.29.54:305][449]Cmd: MODE ROTGRID=1
+[2025.03.07-21.29.59:834][ 50]Cmd: TRANSACTION UNDO
+[2025.03.07-21.29.59:834][ 50]LogEditorTransaction: Undo Move Elements
+[2025.03.07-21.30.01:844][236]Cmd: TRANSACTION UNDO
+[2025.03.07-21.30.01:844][236]LogEditorTransaction: Undo Rotate Elements
+[2025.03.07-21.30.02:178][275]Cmd: TRANSACTION UNDO
+[2025.03.07-21.30.02:178][275]LogEditorTransaction: Undo Move Elements
+[2025.03.07-21.30.22:044][501]LogEditorViewport: Clicking Background
+[2025.03.07-21.30.25:278][874]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.07-21.30.25:282][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.07-21.30.25:282][874]PIE: New page: PIE session: Working (Mar 7, 2025, 11:30:25 AM)
+[2025.03.07-21.30.25:312][874]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Working
+[2025.03.07-21.30.25:346][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034647s)
+[2025.03.07-21.30.25:347][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Working.Working to /Game/Maps/UEDPIE_0_Working.Working (0.034677s)
+[2025.03.07-21.30.25:358][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.07-21.30.25:362][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.30.25:362][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.07-21.30.25:362][874]LogAIModule: Creating AISystem for world Working
+[2025.03.07-21.30.25:363][874]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2025.03.07-21.30.25:363][874]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.03.07-21.30.25:363][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.07-21.30.25:363][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.07-21.30.25:363][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.07-21.30.25:363][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.07-21.30.25:363][874]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.07-21.30.25:363][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.07-21.30.25:363][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.07-21.30.25:363][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.07-21.30.25:363][874]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.07-21.30.25:363][874]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.07-21.30.25:363][874]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.07-21.30.25:365][874]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.07-21.30.25:378][874]LogAudioMixer: Display: Using Audio Hardware Device Speakers (4- Logitech G733 Gaming Headset)
+[2025.03.07-21.30.25:378][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.07-21.30.25:378][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.07-21.30.25:378][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.07-21.30.25:379][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.03.07-21.30.25:379][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=14
+[2025.03.07-21.30.25:380][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.03.07-21.30.25:380][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.03.07-21.30.25:380][874]LogInit: FAudioDevice initialized with ID 14.
+[2025.03.07-21.30.25:380][874]LogAudio: Display: Audio Device (ID: 14) registered with world 'Working'.
+[2025.03.07-21.30.25:380][874]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.03.07-21.30.25:381][874]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.07-21.30.25:397][874]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Working.Working up for play (max tick rate 0) at 2025.03.07-16.30.25
+[2025.03.07-21.30.25:398][874]LogWorld: Bringing up level for play took: 0.015813
+[2025.03.07-21.30.25:399][874]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.03.07-21.30.25:401][874]PIE: Server logged in
+[2025.03.07-21.30.25:401][874]PIE: Play in editor total start time 0.12 seconds.
+[2025.03.07-21.30.29:562][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-21.30.29:562][351]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Working
+[2025.03.07-21.30.29:562][351]LogWorld: UWorld::CleanupWorld for Working, bSessionEnded=true, bCleanupResources=true
+[2025.03.07-21.30.29:566][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-21.30.29:568][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.07-21.30.29:570][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-21.30.29:585][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.07-21.30.29:588][351]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.03.07-21.30.29:588][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.03.07-21.30.29:589][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.03.07-21.30.29:597][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.07-21.30.29:622][352]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.03.07-21.30.33:617][774]Cmd: EDIT COPY
+[2025.03.07-21.30.33:891][807]Cmd: EDIT PASTE
+[2025.03.07-21.30.47:712][334]LogEditorViewport: Clicking Background
+[2025.03.07-21.30.51:162][726]Cmd: DELETE
+[2025.03.07-21.30.51:163][726]Cmd: ACTOR DELETE
+[2025.03.07-21.30.51:171][726]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.30.51:178][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.07-21.30.51:181][726]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.03.07-21.30.53:911][ 33]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.30.53:911][ 33]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.30.53:912][ 33]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1161
+[2025.03.07-21.30.54:407][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.30.54:407][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01
+[2025.03.07-21.30.54:409][ 89]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_RoofFrame01.SM_RoofFrame01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1162
+[2025.03.07-21.31.08:455][678]Cmd: EDIT COPY
+[2025.03.07-21.31.08:708][695]Cmd: EDIT PASTE
+[2025.03.07-21.31.27:360][768]Cmd: DELETE
+[2025.03.07-21.31.27:360][768]Cmd: ACTOR DELETE
+[2025.03.07-21.31.27:368][768]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.31.27:381][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.07-21.31.27:384][768]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.03.07-21.31.27:921][825]Cmd: DELETE
+[2025.03.07-21.31.27:921][825]Cmd: ACTOR DELETE
+[2025.03.07-21.31.27:929][825]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.31.27:938][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.07-21.31.27:940][825]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.03.07-21.31.41:207][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_FloorMatsMerged02.SM_FloorMatsMerged02
+[2025.03.07-21.31.41:207][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_FloorMatsMerged02.SM_FloorMatsMerged02
+[2025.03.07-21.31.41:208][347]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_FloorMatsMerged02.SM_FloorMatsMerged02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1164
+[2025.03.07-21.31.42:004][438]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_FloorMatsMerged02.SM_FloorMatsMerged02
+[2025.03.07-21.31.42:004][438]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_FloorMatsMerged02.SM_FloorMatsMerged02
+[2025.03.07-21.31.42:005][438]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_FloorMatsMerged02.SM_FloorMatsMerged02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1165
+[2025.03.07-21.31.45:475][806]Cmd: DELETE
+[2025.03.07-21.31.45:476][806]Cmd: ACTOR DELETE
+[2025.03.07-21.31.45:484][806]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.31.45:492][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.07-21.31.45:495][806]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.03.07-21.31.51:757][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13802.375000
+[2025.03.07-21.31.51:832][544]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-21.31.51:832][544]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13802.441406, Update Interval: 308.119141
+[2025.03.07-21.31.53:684][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ConcreteFloor_01.SM_ConcreteFloor_01
+[2025.03.07-21.31.53:684][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ConcreteFloor_01.SM_ConcreteFloor_01
+[2025.03.07-21.31.53:685][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_ConcreteFloor_01.SM_ConcreteFloor_01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1166
+[2025.03.07-21.31.54:422][846]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ConcreteFloor_01.SM_ConcreteFloor_01
+[2025.03.07-21.31.54:422][846]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ConcreteFloor_01.SM_ConcreteFloor_01
+[2025.03.07-21.31.54:424][846]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_ConcreteFloor_01.SM_ConcreteFloor_01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1167
+[2025.03.07-21.32.05:297][ 54]Cmd: EDIT COPY
+[2025.03.07-21.32.05:574][ 71]Cmd: EDIT PASTE
+[2025.03.07-21.32.07:334][261]Cmd: EDIT COPY
+[2025.03.07-21.32.07:591][277]Cmd: EDIT PASTE
+[2025.03.07-21.32.29:193][752]Cmd: DELETE
+[2025.03.07-21.32.29:193][752]Cmd: ACTOR DELETE
+[2025.03.07-21.32.29:202][752]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.32.29:210][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.07-21.32.29:217][752]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.03.07-21.32.29:865][825]Cmd: DELETE
+[2025.03.07-21.32.29:865][825]Cmd: ACTOR DELETE
+[2025.03.07-21.32.29:873][825]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.32.29:880][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.07-21.32.29:882][825]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.03.07-21.32.30:645][910]Cmd: DELETE
+[2025.03.07-21.32.30:645][910]Cmd: ACTOR DELETE
+[2025.03.07-21.32.30:653][910]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.32.30:660][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.07-21.32.30:661][910]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.03.07-21.32.33:649][256]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeCarpet.SM_OfficeCarpet
+[2025.03.07-21.32.33:649][256]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeCarpet.SM_OfficeCarpet
+[2025.03.07-21.32.33:649][256]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_OfficeCarpet.SM_OfficeCarpet as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1170
+[2025.03.07-21.32.34:291][328]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeCarpet.SM_OfficeCarpet
+[2025.03.07-21.32.34:291][328]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeCarpet.SM_OfficeCarpet
+[2025.03.07-21.32.34:293][328]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_OfficeCarpet.SM_OfficeCarpet as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1171
+[2025.03.07-21.32.37:265][656]Cmd: DELETE
+[2025.03.07-21.32.37:265][656]Cmd: ACTOR DELETE
+[2025.03.07-21.32.37:274][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.32.37:287][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.07-21.32.37:289][656]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.03.07-21.32.48:442][953]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeCeiling01.SM_OfficeCeiling01
+[2025.03.07-21.32.48:442][953]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeCeiling01.SM_OfficeCeiling01
+[2025.03.07-21.32.48:442][953]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_OfficeCeiling01.SM_OfficeCeiling01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1172
+[2025.03.07-21.32.49:169][ 37]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeCeiling01.SM_OfficeCeiling01
+[2025.03.07-21.32.49:169][ 37]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeCeiling01.SM_OfficeCeiling01
+[2025.03.07-21.32.49:171][ 37]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_OfficeCeiling01.SM_OfficeCeiling01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1173
+[2025.03.07-21.33.05:667][885]Cmd: DELETE
+[2025.03.07-21.33.05:667][885]Cmd: ACTOR DELETE
+[2025.03.07-21.33.05:675][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.33.05:688][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.07-21.33.05:692][885]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.03.07-21.33.13:040][742]LogStaticMesh: Display: Building static mesh Floor_400x400...
+[2025.03.07-21.33.13:041][742]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.03.07-21.33.13:153][746]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.03.07-21.33.13:153][746]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.03.07-21.33.13:155][746]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1174
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: ================================================
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Total job queries 4,570, among them cache hits 326 (7.13%)
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Tracking 4,227 distinct input hashes that result in 2,760 distinct outputs (65.29%)
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: RAM used: 13.94 MiB of 1.60 GiB budget. Usage: 0.85%
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Shaders Compiled: 4,227
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Jobs assigned 4,232, completed 4,227 (99.88%)
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Average time worker was idle: 77.82 s
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Time job spent in pending queue: average 65.91 s, longest 207.65 s
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Job execution time: average 7.32 s, max 38.66 s
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Job life time (pending + execution): average 73.31 s, max 215.63
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Shader code size: average 12.5 KiB, min 140 B, max 154.367 KiB
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 281.60 s
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Jobs were issued in 1,161 batches (only local compilation was used), average 3.65 jobs/batch
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Average processing rate: 15.01 jobs/sec
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Total thread time: 3,443.503 s
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Total thread preprocess time: 135.61 s
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Percentage time preprocessing: 3.94%
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Effective parallelization: 12.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 14
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 10.54 sec, max 33.82 sec, min 1.86 sec)
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 8.01 sec, max 8.01 sec, min 8.01 sec)
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.79 sec, max 19.23 sec, min 0.36 sec)
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display:                                   FScreenSpaceShortRangeAOCS (compiled   12 times, average 5.80 sec, max 25.88 sec, min 0.41 sec)
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 4.84 sec, max 4.84 sec, min 4.84 sec)
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 13.67% of total time (compiled  128 times, average 3.68 sec, max 8.73 sec, min 0.65 sec)
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 10.78% of total time (compiled  128 times, average 2.90 sec, max 4.52 sec, min 1.95 sec)
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.64% of total time (compiled   90 times, average 2.54 sec, max 4.65 sec, min 0.42 sec)
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.42% of total time (compiled  128 times, average 1.19 sec, max 2.71 sec, min 0.58 sec)
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.16% of total time (compiled   96 times, average 1.49 sec, max 2.70 sec, min 0.23 sec)
+[2025.03.07-21.33.13:928][819]LogShaderCompilers: Display: ================================================
+[2025.03.07-21.33.14:454][864]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.03.07-21.33.14:454][864]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.03.07-21.33.14:455][864]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1175
+[2025.03.07-21.33.26:772][184]Cmd: EDIT COPY
+[2025.03.07-21.33.27:012][199]Cmd: EDIT PASTE
+[2025.03.07-21.33.29:487][470]Cmd: EDIT COPY
+[2025.03.07-21.33.29:748][487]Cmd: EDIT PASTE
+[2025.03.07-21.33.34:853][ 38]Cmd: EDIT COPY
+[2025.03.07-21.33.35:120][ 58]Cmd: EDIT PASTE
+[2025.03.07-21.33.45:757][258]Cmd: TRANSACTION UNDO
+[2025.03.07-21.33.45:757][258]LogEditorTransaction: Undo Move Elements
+[2025.03.07-21.34.10:274][911]Cmd: EDIT COPY
+[2025.03.07-21.34.10:515][939]Cmd: EDIT PASTE
+[2025.03.07-21.34.13:005][223]Cmd: EDIT COPY
+[2025.03.07-21.34.13:265][243]Cmd: EDIT PASTE
+[2025.03.07-21.34.15:388][477]Cmd: EDIT COPY
+[2025.03.07-21.34.15:726][503]Cmd: EDIT PASTE
+[2025.03.07-21.34.48:724][220]Cmd: TRANSACTION UNDO
+[2025.03.07-21.34.48:724][220]LogEditorTransaction: Undo Replace component used material
+[2025.03.07-21.35.07:212][300]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished
+[2025.03.07-21.35.07:232][300]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.35.07:232][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.07-21.35.07:260][300]LogStaticMesh: Display: Building static mesh Sphere_inversenormals...
+[2025.03.07-21.35.07:265][300]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.03.07-21.35.07:293][300]LogStaticMesh: Display: Building static mesh Floor_Mesh...
+[2025.03.07-21.35.07:294][300]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.03.07-21.35.07:453][300]LogSlate: The tab "MaterialEditor_Substrate" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2025.03.07-21.35.07:492][300]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.07-21.35.07:492][300]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.03.07-21.35.07:492][300]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.07-21.35.07:492][300]MaterialEditorStats: Shader Count: 0
+[2025.03.07-21.35.07:512][300]LogViewport: Scene viewport resized to 315x371, mode Windowed.
+[2025.03.07-21.35.07:988][310]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.07-21.35.07:988][310]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.03.07-21.35.07:988][310]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.07-21.35.07:988][310]MaterialEditorStats: Shader Count: 1
+[2025.03.07-21.35.08:104][318]MaterialEditorStats: Base pass shader: 171 instructions
+[2025.03.07-21.35.08:104][318]MaterialEditorStats: Base pass vertex shader: 122 instructions
+[2025.03.07-21.35.08:104][318]MaterialEditorStats: Texture samplers: 6/16
+[2025.03.07-21.35.08:104][318]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.03.07-21.35.08:104][318]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.07-21.35.08:104][318]MaterialEditorStats: Shader Count: 4
+[2025.03.07-21.35.24:193][869]LogSlate: Window 'M_Wood_Floor_Walnut_Polished' being destroyed
+[2025.03.07-21.35.24:196][869]LogSlate: Window 'M_Wood_Floor_Walnut_Polished' being destroyed
+[2025.03.07-21.35.24:206][869]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.03.07-21.35.24:206][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.07-21.35.25:657][ 21]LogEditorViewport: Clicking Background
+[2025.03.07-21.35.52:219][101]Cmd: DELETE
+[2025.03.07-21.35.52:219][101]Cmd: ACTOR DELETE
+[2025.03.07-21.35.52:227][101]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.35.52:238][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.07-21.35.52:244][101]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.03.07-21.35.52:782][144]Cmd: DELETE
+[2025.03.07-21.35.52:782][144]Cmd: ACTOR DELETE
+[2025.03.07-21.35.52:790][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.35.52:800][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.07-21.35.52:802][144]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.03.07-21.35.53:929][271]Cmd: DELETE
+[2025.03.07-21.35.53:929][271]Cmd: ACTOR DELETE
+[2025.03.07-21.35.53:938][271]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.35.53:947][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.07-21.35.53:949][271]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.03.07-21.35.54:477][329]Cmd: DELETE
+[2025.03.07-21.35.54:478][329]Cmd: ACTOR DELETE
+[2025.03.07-21.35.54:486][329]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.35.54:499][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.03.07-21.35.54:501][329]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: ================================================
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: Total job queries 4,619, among them cache hits 333 (7.21%)
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: Tracking 4,273 distinct input hashes that result in 2,781 distinct outputs (65.08%)
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: RAM used: 14.03 MiB of 1.60 GiB budget. Usage: 0.86%
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: Shaders Compiled: 4,273
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: Jobs assigned 4,274, completed 4,273 (99.98%)
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: Average time worker was idle: 142.07 s
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: Time job spent in pending queue: average 65.26 s, longest 207.65 s
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: Job execution time: average 7.25 s, max 38.66 s
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: Job life time (pending + execution): average 72.53 s, max 215.63
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: Shader code size: average 12.418 KiB, min 140 B, max 154.367 KiB
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 285.99 s
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: Jobs were issued in 1,203 batches (only local compilation was used), average 3.55 jobs/batch
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: Average processing rate: 14.94 jobs/sec
+[2025.03.07-21.36.24:315][727]LogShaderCompilers: Display: Total thread time: 3,456.589 s
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display: Total thread preprocess time: 138.945 s
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display: Percentage time preprocessing: 4.02%
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display: Effective parallelization: 12.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 14
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 10.54 sec, max 33.82 sec, min 1.86 sec)
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 8.01 sec, max 8.01 sec, min 8.01 sec)
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.79 sec, max 19.23 sec, min 0.36 sec)
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display:                                   FScreenSpaceShortRangeAOCS (compiled   12 times, average 5.80 sec, max 25.88 sec, min 0.41 sec)
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 4.84 sec, max 4.84 sec, min 4.84 sec)
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 13.62% of total time (compiled  128 times, average 3.68 sec, max 8.73 sec, min 0.65 sec)
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 10.74% of total time (compiled  128 times, average 2.90 sec, max 4.52 sec, min 1.95 sec)
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.62% of total time (compiled   90 times, average 2.54 sec, max 4.65 sec, min 0.42 sec)
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.40% of total time (compiled  128 times, average 1.19 sec, max 2.71 sec, min 0.58 sec)
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.15% of total time (compiled   96 times, average 1.49 sec, max 2.70 sec, min 0.23 sec)
+[2025.03.07-21.36.24:316][727]LogShaderCompilers: Display: ================================================
+[2025.03.07-21.36.28:487][193]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/GamePlay/BP_Train.BP_Train_C
+[2025.03.07-21.36.28:487][193]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/GamePlay/BP_Train.BP_Train_C
+[2025.03.07-21.36.28:493][193]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/GamePlay/BP_Train.BP_Train as actor: BP_Train_C /Game/Maps/Working.Working:PersistentLevel.BP_Train_C_0
+[2025.03.07-21.36.28:500][193]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/GamePlay/BP_Train.BP_Train as actor: BP_Train_C /Game/Maps/Working.Working:PersistentLevel.BP_Train_C_0
+[2025.03.07-21.36.28:831][205]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/GamePlay/BP_Train.BP_Train_C
+[2025.03.07-21.36.28:831][205]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/GamePlay/BP_Train.BP_Train_C
+[2025.03.07-21.36.28:848][205]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/GamePlay/BP_Train.BP_Train as actor: BP_Train_C /Game/Maps/Working.Working:PersistentLevel.BP_Train_C_1
+[2025.03.07-21.36.28:860][205]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/GamePlay/BP_Train.BP_Train as actor: BP_Train_C /Game/Maps/Working.Working:PersistentLevel.BP_Train_C_1
+[2025.03.07-21.36.35:471][918]Cmd: TRANSACTION UNDO
+[2025.03.07-21.36.35:471][918]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.36.36:017][934]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Train01.SM_Train01
+[2025.03.07-21.36.36:017][934]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Train01.SM_Train01
+[2025.03.07-21.36.36:018][934]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_Train01.SM_Train01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1207
+[2025.03.07-21.36.36:397][968]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Train01.SM_Train01
+[2025.03.07-21.36.36:397][968]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Train01.SM_Train01
+[2025.03.07-21.36.36:399][968]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_Train01.SM_Train01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1208
+[2025.03.07-21.36.37:414][ 75]Cmd: TRANSACTION UNDO
+[2025.03.07-21.36.37:414][ 75]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.36.37:764][102]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_TrainCar01.SM_TrainCar01
+[2025.03.07-21.36.37:764][102]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_TrainCar01.SM_TrainCar01
+[2025.03.07-21.36.37:765][102]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_TrainCar01.SM_TrainCar01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1209
+[2025.03.07-21.36.38:061][129]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_TrainCar01.SM_TrainCar01
+[2025.03.07-21.36.38:061][129]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_TrainCar01.SM_TrainCar01
+[2025.03.07-21.36.38:063][129]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_TrainCar01.SM_TrainCar01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1210
+[2025.03.07-21.36.56:250][197]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_TrainStopper01.SM_TrainStopper01
+[2025.03.07-21.36.56:250][197]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_TrainStopper01.SM_TrainStopper01
+[2025.03.07-21.36.56:252][197]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_TrainStopper01.SM_TrainStopper01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1211
+[2025.03.07-21.36.56:879][265]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_TrainStopper01.SM_TrainStopper01
+[2025.03.07-21.36.56:879][265]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_TrainStopper01.SM_TrainStopper01
+[2025.03.07-21.36.56:881][265]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_TrainStopper01.SM_TrainStopper01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1212
+[2025.03.07-21.36.59:482][567]Cmd: DELETE
+[2025.03.07-21.36.59:482][567]Cmd: ACTOR DELETE
+[2025.03.07-21.36.59:491][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.36.59:511][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.07-21.36.59:518][567]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.03.07-21.37.03:926][ 74]Cmd: DELETE
+[2025.03.07-21.37.03:926][ 74]Cmd: ACTOR DELETE
+[2025.03.07-21.37.03:934][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.37.03:948][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.07-21.37.03:950][ 74]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.03.07-21.37.21:382][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.21:398][ 97]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.21:422][ 99]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.21:436][100]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.22:963][273]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Meshes/Truck/BP_Truck.BP_Truck_C
+[2025.03.07-21.37.22:963][273]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Meshes/Truck/BP_Truck.BP_Truck_C
+[2025.03.07-21.37.22:966][273]LogActorFactory: Actor Factory spawned Blueprint /Game/Meshes/Truck/BP_Truck.BP_Truck as actor: BP_Truck_C /Game/Maps/Working.Working:PersistentLevel.BP_Truck_C_0
+[2025.03.07-21.37.22:967][273]LogActorFactory: Actor Factory spawned Blueprint /Game/Meshes/Truck/BP_Truck.BP_Truck as actor: BP_Truck_C /Game/Maps/Working.Working:PersistentLevel.BP_Truck_C_0
+[2025.03.07-21.37.23:500][311]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Meshes/Truck/BP_Truck.BP_Truck_C
+[2025.03.07-21.37.23:500][311]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Meshes/Truck/BP_Truck.BP_Truck_C
+[2025.03.07-21.37.23:504][311]LogActorFactory: Actor Factory spawned Blueprint /Game/Meshes/Truck/BP_Truck.BP_Truck as actor: BP_Truck_C /Game/Maps/Working.Working:PersistentLevel.BP_Truck_C_1
+[2025.03.07-21.37.23:506][311]LogActorFactory: Actor Factory spawned Blueprint /Game/Meshes/Truck/BP_Truck.BP_Truck as actor: BP_Truck_C /Game/Maps/Working.Working:PersistentLevel.BP_Truck_C_1
+[2025.03.07-21.37.31:596][255]Cmd: TRANSACTION UNDO
+[2025.03.07-21.37.31:596][255]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.37.32:735][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.32:749][345]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.32:763][346]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.34:530][545]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.34:541][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.34:578][549]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.35:713][682]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.35:740][684]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.36:591][785]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.36:604][786]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.37:272][865]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.37:298][867]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.37:760][921]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.37:778][922]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.38:749][ 24]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14149.572266
+[2025.03.07-21.37.38:823][ 32]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-21.37.38:823][ 32]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14149.636719, Update Interval: 336.087524
+[2025.03.07-21.37.39:139][ 68]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.39:151][ 69]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.07-21.37.41:548][349]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Meshes/CargoCar/SK_CargoCart.SK_CargoCart
+[2025.03.07-21.37.41:548][349]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Meshes/CargoCar/SK_CargoCart.SK_CargoCart
+[2025.03.07-21.37.41:549][349]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Meshes/CargoCar/SK_CargoCart.SK_CargoCart as actor: SkeletalMeshActor /Game/Maps/Working.Working:PersistentLevel.SkeletalMeshActor_0
+[2025.03.07-21.37.41:550][349]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Meshes/CargoCar/SK_CargoCart.SK_CargoCart as actor: SkeletalMeshActor /Game/Maps/Working.Working:PersistentLevel.SkeletalMeshActor_0
+[2025.03.07-21.37.41:909][387]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Meshes/CargoCar/SK_CargoCart.SK_CargoCart
+[2025.03.07-21.37.41:909][387]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Meshes/CargoCar/SK_CargoCart.SK_CargoCart
+[2025.03.07-21.37.41:910][387]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Meshes/CargoCar/SK_CargoCart.SK_CargoCart as actor: SkeletalMeshActor /Game/Maps/Working.Working:PersistentLevel.SkeletalMeshActor_1
+[2025.03.07-21.37.41:910][387]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Meshes/CargoCar/SK_CargoCart.SK_CargoCart as actor: SkeletalMeshActor /Game/Maps/Working.Working:PersistentLevel.SkeletalMeshActor_1
+[2025.03.07-21.37.43:045][510]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Meshes/CargoCar/SK_CargoCart_Physics.SK_CargoCart_Physics as actor: SkeletalMeshActor /Game/Maps/Working.Working:PersistentLevel.SkeletalMeshActor_2
+[2025.03.07-21.37.43:046][510]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_2. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2025.03.07-21.37.43:046][510]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Meshes/CargoCar/SK_CargoCart_Physics.SK_CargoCart_Physics as actor: SkeletalMeshActor /Game/Maps/Working.Working:PersistentLevel.SkeletalMeshActor_2
+[2025.03.07-21.37.43:445][553]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Meshes/CargoCar/SK_CargoCart_Physics.SK_CargoCart_Physics as actor: SkeletalMeshActor /Game/Maps/Working.Working:PersistentLevel.SkeletalMeshActor_3
+[2025.03.07-21.37.43:445][553]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_3. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2025.03.07-21.37.43:445][553]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Meshes/CargoCar/SK_CargoCart_Physics.SK_CargoCart_Physics as actor: SkeletalMeshActor /Game/Maps/Working.Working:PersistentLevel.SkeletalMeshActor_3
+[2025.03.07-21.37.44:050][621]Cmd: TRANSACTION UNDO
+[2025.03.07-21.37.44:050][621]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.37.44:364][632]Cmd: TRANSACTION UNDO
+[2025.03.07-21.37.44:364][632]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.37.46:337][842]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/CargoCar/SM_CargoCart_front.SM_CargoCart_front
+[2025.03.07-21.37.46:337][842]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/CargoCar/SM_CargoCart_front.SM_CargoCart_front
+[2025.03.07-21.37.46:338][842]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/CargoCar/SM_CargoCart_front.SM_CargoCart_front as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1213
+[2025.03.07-21.37.46:527][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/CargoCar/SM_CargoCart_front.SM_CargoCart_front
+[2025.03.07-21.37.46:527][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/CargoCar/SM_CargoCart_front.SM_CargoCart_front
+[2025.03.07-21.37.46:529][862]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/CargoCar/SM_CargoCart_front.SM_CargoCart_front as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1214
+[2025.03.07-21.37.47:050][920]Cmd: TRANSACTION UNDO
+[2025.03.07-21.37.47:050][920]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.37.52:192][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Background2_Bridge.SM_Background2_Bridge
+[2025.03.07-21.37.52:192][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Background2_Bridge.SM_Background2_Bridge
+[2025.03.07-21.37.52:192][478]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_Background2_Bridge.SM_Background2_Bridge as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1215
+[2025.03.07-21.37.52:460][504]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Background2_Bridge.SM_Background2_Bridge
+[2025.03.07-21.37.52:460][504]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Background2_Bridge.SM_Background2_Bridge
+[2025.03.07-21.37.52:461][504]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_Background2_Bridge.SM_Background2_Bridge as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1216
+[2025.03.07-21.37.53:781][656]Cmd: TRANSACTION UNDO
+[2025.03.07-21.37.53:782][656]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.38.02:101][537]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ContainerEngine.SM_ContainerEngine
+[2025.03.07-21.38.02:101][537]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ContainerEngine.SM_ContainerEngine
+[2025.03.07-21.38.02:102][537]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_ContainerEngine.SM_ContainerEngine as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1217
+[2025.03.07-21.38.02:261][552]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ContainerEngine.SM_ContainerEngine
+[2025.03.07-21.38.02:261][552]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ContainerEngine.SM_ContainerEngine
+[2025.03.07-21.38.02:262][552]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_ContainerEngine.SM_ContainerEngine as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1218
+[2025.03.07-21.38.03:333][672]Cmd: TRANSACTION UNDO
+[2025.03.07-21.38.03:333][672]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.38.09:800][346]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Floor2m.SM_Floor2m
+[2025.03.07-21.38.09:800][346]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Floor2m.SM_Floor2m
+[2025.03.07-21.38.09:800][346]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_Floor2m.SM_Floor2m as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1219
+[2025.03.07-21.38.10:155][385]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Floor2m.SM_Floor2m
+[2025.03.07-21.38.10:155][385]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Floor2m.SM_Floor2m
+[2025.03.07-21.38.10:157][385]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_Floor2m.SM_Floor2m as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1220
+[2025.03.07-21.38.16:065][ 53]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_FloorMat02.SM_FloorMat02
+[2025.03.07-21.38.16:065][ 53]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_FloorMat02.SM_FloorMat02
+[2025.03.07-21.38.16:066][ 53]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_FloorMat02.SM_FloorMat02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1221
+[2025.03.07-21.38.16:366][ 81]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_FloorMat02.SM_FloorMat02
+[2025.03.07-21.38.16:366][ 81]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_FloorMat02.SM_FloorMat02
+[2025.03.07-21.38.16:367][ 81]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_FloorMat02.SM_FloorMat02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1222
+[2025.03.07-21.38.16:967][148]Cmd: TRANSACTION UNDO
+[2025.03.07-21.38.16:967][148]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.38.17:316][158]Cmd: TRANSACTION UNDO
+[2025.03.07-21.38.17:316][158]LogEditorTransaction: Undo Move Elements
+[2025.03.07-21.38.18:331][249]Cmd: TRANSACTION UNDO
+[2025.03.07-21.38.18:331][249]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.38.19:860][415]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_FloorMatsMerged04.SM_FloorMatsMerged04
+[2025.03.07-21.38.19:860][415]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_FloorMatsMerged04.SM_FloorMatsMerged04
+[2025.03.07-21.38.19:861][415]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_FloorMatsMerged04.SM_FloorMatsMerged04 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1223
+[2025.03.07-21.38.20:148][443]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_FloorMatsMerged04.SM_FloorMatsMerged04
+[2025.03.07-21.38.20:148][443]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_FloorMatsMerged04.SM_FloorMatsMerged04
+[2025.03.07-21.38.20:150][443]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_FloorMatsMerged04.SM_FloorMatsMerged04 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1224
+[2025.03.07-21.38.24:626][934]Cmd: TRANSACTION UNDO
+[2025.03.07-21.38.24:627][934]LogEditorTransaction: Undo Move Elements
+[2025.03.07-21.38.25:616][  3]Cmd: TRANSACTION UNDO
+[2025.03.07-21.38.25:616][  3]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.38.27:963][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateTopLeft01.SM_GateTopLeft01
+[2025.03.07-21.38.27:964][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateTopLeft01.SM_GateTopLeft01
+[2025.03.07-21.38.27:965][263]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_GateTopLeft01.SM_GateTopLeft01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1225
+[2025.03.07-21.38.28:281][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateTopLeft01.SM_GateTopLeft01
+[2025.03.07-21.38.28:281][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateTopLeft01.SM_GateTopLeft01
+[2025.03.07-21.38.28:283][287]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_GateTopLeft01.SM_GateTopLeft01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1226
+[2025.03.07-21.38.30:372][524]Cmd: TRANSACTION UNDO
+[2025.03.07-21.38.30:372][524]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.38.33:697][867]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateLeft02.SM_GateLeft02
+[2025.03.07-21.38.33:697][867]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateLeft02.SM_GateLeft02
+[2025.03.07-21.38.33:698][867]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_GateLeft02.SM_GateLeft02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1227
+[2025.03.07-21.38.34:666][976]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateLeft02.SM_GateLeft02
+[2025.03.07-21.38.34:666][976]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateLeft02.SM_GateLeft02
+[2025.03.07-21.38.34:667][976]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_GateLeft02.SM_GateLeft02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1228
+[2025.03.07-21.38.43:272][940]Cmd: DELETE
+[2025.03.07-21.38.43:272][940]Cmd: ACTOR DELETE
+[2025.03.07-21.38.43:281][940]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.38.43:298][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.07-21.38.43:304][940]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.03.07-21.38.46:684][323]Cmd: EDIT COPY
+[2025.03.07-21.38.46:944][349]Cmd: EDIT PASTE
+[2025.03.07-21.39.00:510][895]Cmd: DELETE
+[2025.03.07-21.39.00:510][895]Cmd: ACTOR DELETE
+[2025.03.07-21.39.00:517][895]LogEditorActor: Actor SM_MetalWallPart_901 is referenced by GroupActor_82.
+[2025.03.07-21.39.02:680][895]LogSlate: Window 'Message' being destroyed
+[2025.03.07-21.39.02:687][895]Message dialog closed, result: Yes, title: Message, text: Actor SM_MetalWallPart_901 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_82
+[2025.03.07-21.39.02:689][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.39.02:706][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.07-21.39.02:710][895]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.03.07-21.39.02:724][896]LogAutomationController: Ignoring very large delta of 2.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.07-21.39.05:277][182]Cmd: DELETE
+[2025.03.07-21.39.05:277][182]Cmd: ACTOR DELETE
+[2025.03.07-21.39.05:285][182]LogEditorActor: Actor SM_MetalWallPart_893 is referenced by GroupActor_82.
+[2025.03.07-21.39.06:260][182]LogSlate: Window 'Message' being destroyed
+[2025.03.07-21.39.06:268][182]Message dialog closed, result: Yes, title: Message, text: Actor SM_MetalWallPart_893 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_82
+[2025.03.07-21.39.06:271][182]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.39.06:286][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.03.07-21.39.06:288][182]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.03.07-21.39.10:662][660]Cmd: DELETE
+[2025.03.07-21.39.10:662][660]Cmd: ACTOR DELETE
+[2025.03.07-21.39.10:670][660]LogEditorActor: Actor SM_MetalWallPart_904 is referenced by GroupActor_82.
+[2025.03.07-21.39.11:470][660]LogSlate: Window 'Message' being destroyed
+[2025.03.07-21.39.11:476][660]Message dialog closed, result: Yes, title: Message, text: Actor SM_MetalWallPart_904 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_82
+[2025.03.07-21.39.11:478][660]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.39.11:488][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.07-21.39.11:490][660]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.03.07-21.39.11:500][661]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 17b...0dc
+[2025.03.07-21.39.11:500][661]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.53 RefreshExpires: 1.554e+07
+[2025.03.07-21.39.11:623][672]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 17b...0dc Access[Expires: 2025.03.07-23.39.11 Remaining: 7200.72] Refresh[Expires: 2025-09-03T17:42:29.564Z Remaining: 15537798.56] State: Valid
+[2025.03.07-21.39.12:209][737]Cmd: DELETE
+[2025.03.07-21.39.12:209][737]Cmd: ACTOR DELETE
+[2025.03.07-21.39.12:217][737]LogEditorActor: Actor SM_MetalWallPart_900 is referenced by GroupActor_82.
+[2025.03.07-21.39.13:023][737]LogSlate: Window 'Message' being destroyed
+[2025.03.07-21.39.13:030][737]Message dialog closed, result: Yes, title: Message, text: Actor SM_MetalWallPart_900 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_82
+[2025.03.07-21.39.13:032][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.39.13:045][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.03.07-21.39.13:046][737]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.03.07-21.39.15:550][ 18]Cmd: DELETE
+[2025.03.07-21.39.15:550][ 18]Cmd: ACTOR DELETE
+[2025.03.07-21.39.15:558][ 18]LogEditorActor: Actor SM_MetalWallPart_903 is referenced by GroupActor_82.
+[2025.03.07-21.39.16:487][ 18]LogSlate: Window 'Message' being destroyed
+[2025.03.07-21.39.16:496][ 18]Message dialog closed, result: Yes, title: Message, text: Actor SM_MetalWallPart_903 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_82
+[2025.03.07-21.39.16:497][ 18]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.39.16:498][ 18]LogEditorActor: Actor SM_MetalWallPart_890 is referenced by GroupActor_82.
+[2025.03.07-21.39.17:605][ 18]LogSlate: Window 'Message' being destroyed
+[2025.03.07-21.39.17:612][ 18]Message dialog closed, result: Yes, title: Message, text: Actor SM_MetalWallPart_890 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_82
+[2025.03.07-21.39.17:612][ 18]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.39.17:614][ 18]LogEditorActor: Actor SM_MetalWallPart_899 is referenced by GroupActor_82.
+[2025.03.07-21.39.19:116][ 18]LogSlate: Window 'Message' being destroyed
+[2025.03.07-21.39.19:124][ 18]Message dialog closed, result: YesAll, title: Message, text: Actor SM_MetalWallPart_899 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_82
+[2025.03.07-21.39.19:125][ 18]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.39.19:125][ 18]LogEditorActor: Actor SM_MetalWallPart_905 is referenced by GroupActor_82.
+[2025.03.07-21.39.19:126][ 18]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.39.19:135][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.07-21.39.19:137][ 18]LogEditorActor: Deleted 4 Actors (0.024 secs)
+[2025.03.07-21.39.19:153][ 18]LogAutomationController: Ignoring very large delta of 3.61 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.07-21.39.21:180][232]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateBottomLeft01.SM_GateBottomLeft01
+[2025.03.07-21.39.21:180][232]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateBottomLeft01.SM_GateBottomLeft01
+[2025.03.07-21.39.21:180][232]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_GateBottomLeft01.SM_GateBottomLeft01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1241
+[2025.03.07-21.39.21:910][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateBottomLeft01.SM_GateBottomLeft01
+[2025.03.07-21.39.21:910][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateBottomLeft01.SM_GateBottomLeft01
+[2025.03.07-21.39.21:912][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_GateBottomLeft01.SM_GateBottomLeft01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1242
+[2025.03.07-21.39.22:182][338]Cmd: TRANSACTION UNDO
+[2025.03.07-21.39.22:182][338]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.39.22:674][354]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateDoor01.SM_GateDoor01
+[2025.03.07-21.39.22:674][354]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateDoor01.SM_GateDoor01
+[2025.03.07-21.39.22:675][354]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_GateDoor01.SM_GateDoor01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1243
+[2025.03.07-21.39.23:126][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateDoor01.SM_GateDoor01
+[2025.03.07-21.39.23:126][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateDoor01.SM_GateDoor01
+[2025.03.07-21.39.23:128][403]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_GateDoor01.SM_GateDoor01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1244
+[2025.03.07-21.39.23:461][435]Cmd: TRANSACTION UNDO
+[2025.03.07-21.39.23:461][435]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.39.23:897][479]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateLeft02.SM_GateLeft02
+[2025.03.07-21.39.23:897][479]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateLeft02.SM_GateLeft02
+[2025.03.07-21.39.23:898][479]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_GateLeft02.SM_GateLeft02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1245
+[2025.03.07-21.39.25:058][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateLeft02.SM_GateLeft02
+[2025.03.07-21.39.25:058][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_GateLeft02.SM_GateLeft02
+[2025.03.07-21.39.25:059][612]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_GateLeft02.SM_GateLeft02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1246
+[2025.03.07-21.39.40:692][428]Cmd: DELETE
+[2025.03.07-21.39.40:692][428]Cmd: ACTOR DELETE
+[2025.03.07-21.39.40:701][428]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.39.40:710][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.07-21.39.40:714][428]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.03.07-21.39.46:721][ 53]Cmd: EDIT COPY
+[2025.03.07-21.39.47:011][ 87]Cmd: EDIT PASTE
+[2025.03.07-21.39.49:920][421]Cmd: EDIT COPY
+[2025.03.07-21.39.50:203][442]Cmd: EDIT PASTE
+[2025.03.07-21.39.51:774][614]Cmd: EDIT COPY
+[2025.03.07-21.39.52:052][637]Cmd: EDIT PASTE
+[2025.03.07-21.39.53:808][829]LogEditorViewport: Clicking Background
+[2025.03.07-21.40.14:535][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeWoodenWall01.SM_OfficeWoodenWall01
+[2025.03.07-21.40.14:535][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeWoodenWall01.SM_OfficeWoodenWall01
+[2025.03.07-21.40.14:535][251]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_OfficeWoodenWall01.SM_OfficeWoodenWall01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1259
+[2025.03.07-21.40.15:389][349]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeWoodenWall01.SM_OfficeWoodenWall01
+[2025.03.07-21.40.15:389][349]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeWoodenWall01.SM_OfficeWoodenWall01
+[2025.03.07-21.40.15:391][349]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_OfficeWoodenWall01.SM_OfficeWoodenWall01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1260
+[2025.03.07-21.40.24:531][337]Cmd: TRANSACTION UNDO
+[2025.03.07-21.40.24:531][337]LogEditorTransaction: Undo Move Elements
+[2025.03.07-21.40.25:460][408]Cmd: DELETE
+[2025.03.07-21.40.25:460][408]Cmd: ACTOR DELETE
+[2025.03.07-21.40.25:469][408]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.40.25:482][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.07-21.40.25:487][408]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.03.07-21.40.31:370][ 84]LogDerivedDataCache: C:/Users/abner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:28.116 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14756 files in 17431 folders with total size 3037 MiB.
+[2025.03.07-21.40.34:911][486]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeWoodenWall02.SM_OfficeWoodenWall02
+[2025.03.07-21.40.34:911][486]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeWoodenWall02.SM_OfficeWoodenWall02
+[2025.03.07-21.40.34:912][486]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_OfficeWoodenWall02.SM_OfficeWoodenWall02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1261
+[2025.03.07-21.40.36:042][614]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeWoodenWall02.SM_OfficeWoodenWall02
+[2025.03.07-21.40.36:042][614]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_OfficeWoodenWall02.SM_OfficeWoodenWall02
+[2025.03.07-21.40.36:043][614]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_OfficeWoodenWall02.SM_OfficeWoodenWall02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1262
+[2025.03.07-21.40.43:460][457]Cmd: DELETE
+[2025.03.07-21.40.43:460][457]Cmd: ACTOR DELETE
+[2025.03.07-21.40.43:468][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.40.43:484][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.07-21.40.43:487][457]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.03.07-21.40.45:119][637]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_01.SM_ShowerRoomWall_01
+[2025.03.07-21.40.45:119][637]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_01.SM_ShowerRoomWall_01
+[2025.03.07-21.40.45:120][637]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_ShowerRoomWall_01.SM_ShowerRoomWall_01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1263
+[2025.03.07-21.40.45:926][729]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_01.SM_ShowerRoomWall_01
+[2025.03.07-21.40.45:926][729]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_01.SM_ShowerRoomWall_01
+[2025.03.07-21.40.45:927][729]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_ShowerRoomWall_01.SM_ShowerRoomWall_01 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1264
+[2025.03.07-21.40.48:864][ 62]Cmd: TRANSACTION UNDO
+[2025.03.07-21.40.48:864][ 62]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.40.52:001][385]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_08.SM_ShowerRoomWall_08
+[2025.03.07-21.40.52:001][385]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_08.SM_ShowerRoomWall_08
+[2025.03.07-21.40.52:002][385]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_ShowerRoomWall_08.SM_ShowerRoomWall_08 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1265
+[2025.03.07-21.40.52:785][473]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_08.SM_ShowerRoomWall_08
+[2025.03.07-21.40.52:785][473]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_08.SM_ShowerRoomWall_08
+[2025.03.07-21.40.52:787][473]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_ShowerRoomWall_08.SM_ShowerRoomWall_08 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1266
+[2025.03.07-21.40.53:229][521]Cmd: TRANSACTION UNDO
+[2025.03.07-21.40.53:229][521]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.40.53:643][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_07.SM_ShowerRoomWall_07
+[2025.03.07-21.40.53:643][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_07.SM_ShowerRoomWall_07
+[2025.03.07-21.40.53:644][533]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_ShowerRoomWall_07.SM_ShowerRoomWall_07 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1267
+[2025.03.07-21.40.54:054][571]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_07.SM_ShowerRoomWall_07
+[2025.03.07-21.40.54:054][571]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_07.SM_ShowerRoomWall_07
+[2025.03.07-21.40.54:055][571]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_ShowerRoomWall_07.SM_ShowerRoomWall_07 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1268
+[2025.03.07-21.40.57:218][936]Cmd: TRANSACTION UNDO
+[2025.03.07-21.40.57:218][936]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.40.57:606][948]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_06.SM_ShowerRoomWall_06
+[2025.03.07-21.40.57:606][948]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_06.SM_ShowerRoomWall_06
+[2025.03.07-21.40.57:607][948]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_ShowerRoomWall_06.SM_ShowerRoomWall_06 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1269
+[2025.03.07-21.40.58:058][990]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_06.SM_ShowerRoomWall_06
+[2025.03.07-21.40.58:058][990]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_ShowerRoomWall_06.SM_ShowerRoomWall_06
+[2025.03.07-21.40.58:060][990]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_ShowerRoomWall_06.SM_ShowerRoomWall_06 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1270
+[2025.03.07-21.41.12:959][589]Cmd: MODE GRID=0
+[2025.03.07-21.41.14:909][818]Cmd: MODE GRID=1
+[2025.03.07-21.41.24:623][917]LogEditorViewport: Clicking Background
+[2025.03.07-21.41.26:650][128]Cmd: EDIT COPY
+[2025.03.07-21.41.26:908][148]Cmd: EDIT PASTE
+[2025.03.07-21.41.34:698][ 35]LogEditorViewport: Clicking Background
+[2025.03.07-21.41.38:341][426]Cmd: DELETE
+[2025.03.07-21.41.38:341][426]Cmd: ACTOR DELETE
+[2025.03.07-21.41.38:351][426]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.41.38:365][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.07-21.41.38:371][426]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.03.07-21.41.38:864][475]Cmd: DELETE
+[2025.03.07-21.41.38:864][475]Cmd: ACTOR DELETE
+[2025.03.07-21.41.38:872][475]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.41.38:890][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.07-21.41.38:891][475]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.03.07-21.41.41:195][741]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_WallPart_03.SM_WallPart_03
+[2025.03.07-21.41.41:196][741]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_WallPart_03.SM_WallPart_03
+[2025.03.07-21.41.41:196][741]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_WallPart_03.SM_WallPart_03 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1272
+[2025.03.07-21.41.41:616][783]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_WallPart_03.SM_WallPart_03
+[2025.03.07-21.41.41:616][783]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_WallPart_03.SM_WallPart_03
+[2025.03.07-21.41.41:618][783]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_WallPart_03.SM_WallPart_03 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1273
+[2025.03.07-21.41.43:454][997]Cmd: TRANSACTION UNDO
+[2025.03.07-21.41.43:454][997]LogEditorTransaction: Undo Create Actors
+[2025.03.07-21.41.44:869][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_WallPart_04.SM_WallPart_04
+[2025.03.07-21.41.44:869][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_WallPart_04.SM_WallPart_04
+[2025.03.07-21.41.44:870][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_WallPart_04.SM_WallPart_04 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1274
+[2025.03.07-21.41.45:143][128]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_WallPart_04.SM_WallPart_04
+[2025.03.07-21.41.45:143][128]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_WallPart_04.SM_WallPart_04
+[2025.03.07-21.41.45:145][128]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_WallPart_04.SM_WallPart_04 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1275
+[2025.03.07-21.42.06:538][578]Cmd: DELETE
+[2025.03.07-21.42.06:538][578]Cmd: ACTOR DELETE
+[2025.03.07-21.42.06:546][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.42.06:556][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.07-21.42.06:560][578]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.03.07-21.42.09:760][939]Cmd: EDIT COPY
+[2025.03.07-21.42.10:024][958]Cmd: EDIT PASTE
+[2025.03.07-21.42.11:967][169]Cmd: TRANSACTION UNDO
+[2025.03.07-21.42.11:967][169]LogEditorTransaction: Undo Move Elements
+[2025.03.07-21.42.18:510][893]Cmd: DELETE
+[2025.03.07-21.42.18:511][893]Cmd: ACTOR DELETE
+[2025.03.07-21.42.18:519][893]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.42.18:530][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.07-21.42.18:533][893]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.03.07-21.42.20:767][150]Cmd: EDIT COPY
+[2025.03.07-21.42.21:032][181]Cmd: EDIT PASTE
+[2025.03.07-21.42.24:614][581]LogEditorViewport: Clicking Background
+[2025.03.07-21.42.39:725][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Stair_02.SM_Stair_02
+[2025.03.07-21.42.39:725][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Stair_02.SM_Stair_02
+[2025.03.07-21.42.39:726][311]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_Stair_02.SM_Stair_02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1279
+[2025.03.07-21.42.40:383][380]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Stair_02.SM_Stair_02
+[2025.03.07-21.42.40:383][380]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_Stair_02.SM_Stair_02
+[2025.03.07-21.42.40:385][380]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_Stair_02.SM_Stair_02 as actor: StaticMeshActor /Game/Maps/Working.Working:PersistentLevel.StaticMeshActor_1280
+[2025.03.07-21.42.46:496][ 81]Cmd: DELETE
+[2025.03.07-21.42.46:496][ 81]Cmd: ACTOR DELETE
+[2025.03.07-21.42.46:505][ 81]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.07-21.42.46:516][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.07-21.42.46:521][ 81]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.03.07-21.43.17:082][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.07-21.43.17:124][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.03.07-21.43.17:256][697]LogSavePackage: Moving output files for package: /Game/Maps/Working
+[2025.03.07-21.43.17:256][697]LogSavePackage: Moving '../../../../../../Users/abner/UnrealProject/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Saved/WorkingC4B198E94D7C1EF4C7B4538C786B1D46.tmp' to '../../../../../../Users/abner/UnrealProject/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working.umap'
+[2025.03.07-21.43.17:264][697]LogFileHelpers: All files are already saved.
+[2025.03.07-21.43.17:264][697]LogFileHelpers: Saving map 'Working' took 0.162
+[2025.03.07-21.43.17:268][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 654 ms)
+[2025.03.07-21.43.17:271][697]AssetCheck: New page: Asset Save: Working
+[2025.03.07-21.43.17:271][697]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Working.Working
