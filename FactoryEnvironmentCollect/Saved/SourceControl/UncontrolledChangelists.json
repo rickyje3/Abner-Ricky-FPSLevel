@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/abner/UnrealProject/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working.umap",
+				"C:/Users/abner/UnrealProject/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working_BuiltData.uasset",
+				"C:/Users/abner/UnrealProject/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working1.umap",
 				"C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working.umap",
 				"C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/_GENERATED/ricky/Box_EAFFB39A.uasset",
 				"C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/_GENERATED/ricky/Stairs_4C15792E.uasset",
@@ -20,13 +23,6 @@
 				"C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/_GENERATED/ricky/Stairs_F96A9B60.uasset",
 				"C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/_GENERATED/ricky/Box_4D7C5258.uasset",
 				"C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/_GENERATED/ricky/Box_646BCF62.uasset",
-				"C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/_GENERATED/ricky/Box_C45A49D5.uasset",
-				"C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/_GENERATED/ricky/Box_0F734384.uasset",
-				"C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/_GENERATED/ricky/Box_D698023D.uasset",
-				"C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/_GENERATED/ricky/Box_70CB9FD0.uasset",
-				"C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/_GENERATED/ricky/Cylinder_3DD52DE6.uasset",
-				"C:/Users/abner/UnrealProject/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working.umap",
-				"C:/Users/abner/UnrealProject/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working_BuiltData.uasset",
 				"C:/Users/ricky/Desktop/Unreal Projects/Factory/FactoryEnvironmentCollect/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/ricky/Desktop/Unreal Projects/Factory/FactoryEnvironmentCollect/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset"
 			]
