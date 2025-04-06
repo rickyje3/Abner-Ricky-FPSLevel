@@ -2767,3 +2767,4 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2025.04.06-23.13.24:909][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 958 ms (total: 24.4 sec)
 [2025.04.06-23.13.24:924][361]AssetCheck: New page: Asset Save: Working
 [2025.04.06-23.13.24:924][361]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Working.Working
+[2025.04.06-23.15.36:038][ 19]LogAssetRegistry: Error: Package C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working.umap has malformed tag
