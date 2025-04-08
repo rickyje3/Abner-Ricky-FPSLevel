@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset",
+				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/PlayerGunScope.uasset",
+				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/PlayerGun.uasset",
+				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/Arms_AnimBP.uasset",
 				"C:/Users/abner/UnrealProject/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working.umap",
 				"C:/Users/abner/UnrealProject/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working_BuiltData.uasset",
 				"C:/Users/abner/UnrealProject/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working1.umap",
