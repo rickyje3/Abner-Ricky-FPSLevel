@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset",
+				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/PlayerGunScope.uasset",
+				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/PlayerGun.uasset",
+				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/Arms_AnimBP.uasset",
+				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/WB_FPS_HUD.uasset",
+				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/BP_Key.uasset",
+				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working.umap",
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BufferVisualization/FinalImage.uasset",
 				"C:/Users/abner/UnrealProject/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working.umap",
 				"C:/Users/abner/UnrealProject/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/Maps/Working_BuiltData.uasset",
@@ -99,13 +107,8 @@
 				"C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/BPI_Door.uasset",
 				"C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/BP_Key.uasset",
 				"C:/Users/ricky/Desktop/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/BP_Door.uasset",
-				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset",
-				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/PlayerGunScope.uasset",
-				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/PlayerGun.uasset",
-				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/FPSAssets/FirstPersonBP/Blueprints/Arms_AnimBP.uasset",
 				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
 				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
-				"C:/Users/ab364010/Documents/GitHub/Abner-Ricky-FPSLevel/FactoryEnvironmentCollect/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
 				"C:/Users/ricky/Desktop/Unreal Projects/Factory/FactoryEnvironmentCollect/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/ricky/Desktop/Unreal Projects/Factory/FactoryEnvironmentCollect/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset"
 			]
